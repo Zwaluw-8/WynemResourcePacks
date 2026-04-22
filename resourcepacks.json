@@ -159,5 +159,9 @@
   "mspainted": {
     "download": "https://github.com/StrideyGH/MS-Painted/archive/refs/heads/main.zip",
     "author": "174069044154990593"
+  },
+  "caelesti": {
+    "download": "https://cdn.modrinth.com/data/4sznRHpx/versions/7njc2Ksw/Caelesti%20Update%2047.zip",
+    "author": "262950583445487617"
   }
 }
