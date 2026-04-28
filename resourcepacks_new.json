@@ -1,0 +1,60 @@
+{
+  "f8thful": {
+    "github": "https://github.com/ewanhowell5195/F8thful"
+  },
+  "4thful": {
+    "github": "https://github.com/ewanhowell5195/4thful"
+  },
+  "dokucraft_light": {
+    "github": "https://github.com/Dokucraft/Dokucraft-Light",
+    "alias": "dokucraft"
+  },
+  "dokucraft_high": {
+    "github": "https://github.com/Dokucraft/Dokucraft-High"
+  },
+  "dokucraft_dark": {
+    "github": "https://github.com/Dokucraft/Dokucraft-Dark"
+  },
+  "dokucraft_dwarven": {
+    "github": "https://github.com/Dokucraft/Dokucraft-Dwarven"
+  },
+  "faithful_32x": {
+    "id": "w0TnApzs",
+    "alias": "faithful"
+  },
+  "faithful_64x": {
+    "id": "r4GILswZ"
+  },
+  "classic_faithful_32x": {
+    "id": "bkFF9W8s",
+    "alias": "classic_faithful"
+  },
+  "classic_faithful_64x": {
+    "id": "Wr4noqwa"
+  },
+  "classic_faithful_32x_jappa": {
+    "id": "woZSVbVu",
+    "alias": "classic_faithful_jappa"
+  },
+  "classic_faithful_64x_jappa": {
+    "id": "JiSLiy6N"
+  },
+  "barebones": {
+    "github": "https://github.com/RobotPantaloons/Bare-Bones-Java"
+  },
+  "faithless": {
+    "id": "CwaddKq6"
+  },
+  "barely_default": {
+    "id": "e67KFc9t"
+  },
+  "optifine": {
+    "github": "https://github.com/ewanhowell5195/OptiFineTextures"
+  },
+  "mspainted": {
+    "github": "https://github.com/StrideyGH/MS-Painted"
+  },
+  "caelesti": {
+    "id": "4sznRHpx"
+  }
+}
