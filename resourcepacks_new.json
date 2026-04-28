@@ -1,22 +1,40 @@
 {
   "f8thful": {
-    "github": "https://github.com/ewanhowell5195/F8thful"
+    "github": [
+      "ewanhowell5195",
+      "F8thful"
+    ]
   },
   "4thful": {
-    "github": "https://github.com/ewanhowell5195/4thful"
+    "github": [
+      "ewanhowell5195",
+      "4thful"
+    ]
   },
   "dokucraft_light": {
-    "github": "https://github.com/Dokucraft/Dokucraft-Light",
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Light"
+    ],
     "alias": "dokucraft"
   },
   "dokucraft_high": {
-    "github": "https://github.com/Dokucraft/Dokucraft-High"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-High"
+    ]
   },
   "dokucraft_dark": {
-    "github": "https://github.com/Dokucraft/Dokucraft-Dark"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Dark"
+    ]
   },
   "dokucraft_dwarven": {
-    "github": "https://github.com/Dokucraft/Dokucraft-Dwarven"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Dwarven"
+    ]
   },
   "faithful_32x": {
     "modrinth": "w0TnApzs",
@@ -40,7 +58,10 @@
     "modrinth": "JiSLiy6N"
   },
   "barebones": {
-    "github": "https://github.com/RobotPantaloons/Bare-Bones-Java"
+    "github": [
+      "RobotPantaloons",
+      "Bare-Bones-Java"
+    ]
   },
   "faithless": {
     "modrinth": "CwaddKq6"
@@ -49,10 +70,16 @@
     "modrinth": "e67KFc9t"
   },
   "optifine": {
-    "github": "https://github.com/ewanhowell5195/OptiFineTextures"
+    "github": [
+      "ewanhowell5195",
+      "OptiFineTextures"
+    ]
   },
   "mspainted": {
-    "github": "https://github.com/StrideyGH/MS-Painted"
+    "github": [
+      "StrideyGH",
+      "MS-Painted"
+    ]
   },
   "caelesti": {
     "modrinth": "4sznRHpx"
