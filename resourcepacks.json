@@ -1,167 +1,87 @@
 {
   "f8thful": {
-    "download": "https://github.com/ewanhowell5195/F8thful/archive/refs/heads/main.zip",
-    "author": "519179484340027392"
+    "github": [
+      "ewanhowell5195",
+      "F8thful"
+    ]
   },
   "4thful": {
-    "download": "https://github.com/ewanhowell5195/4thful/archive/refs/heads/main.zip",
-    "author": "519179484340027392"
+    "github": [
+      "ewanhowell5195",
+      "4thful"
+    ]
   },
   "dokucraft_light": {
-    "download": "https://github.com/Dokucraft/Dokucraft-Light/archive/refs/heads/master.zip",
-    "author": [
-      "144918157377798144",
-      "146053934182694914",
-      "178394162381455360"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Light"
     ],
     "alias": "dokucraft"
   },
   "dokucraft_high": {
-    "download": "https://github.com/Dokucraft/Dokucraft-High/archive/refs/heads/master.zip",
-    "author": [
-      "144918157377798144",
-      "146053934182694914",
-      "178394162381455360"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-High"
     ]
   },
   "dokucraft_dark": {
-    "download": "https://github.com/Dokucraft/Dokucraft-Dark/archive/refs/heads/master.zip",
-    "author": [
-      "144918157377798144",
-      "146053934182694914",
-      "178394162381455360"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Dark"
     ]
   },
   "dokucraft_dwarven": {
-    "download": "https://github.com/Dokucraft/Dokucraft-Dwarven/archive/refs/heads/master.zip",
-    "author": [
-      "144918157377798144",
-      "146053934182694914",
-      "178394162381455360"
+    "github": [
+      "Dokucraft",
+      "Dokucraft-Dwarven"
     ]
   },
   "faithful_32x": {
-    "download": "https://github.com/Faithful-Resource-Pack/Faithful-32x-Java/archive/refs/heads/java-latest.zip",
-    "author": [
-      "360249987927638016",
-      "865560086952280084",
-      "672989591283695618",
-      "340497757410295808",
-      "207471947662098432",
-      "838924839086981130",
-      "331073143613423616",
-      "473860522710794250",
-      "401627057915691009"         
-    ],
+    "modrinth": "w0TnApzs",
     "alias": "faithful"
   },
   "faithful_64x": {
-    "download": "https://github.com/Faithful-Resource-Pack/Faithful-64x-Java/archive/refs/heads/java-latest.zip",
-    "author": [
-      "360249987927638016",
-      "865560086952280084",
-      "672989591283695618",
-      "340497757410295808",
-      "207471947662098432",
-      "838924839086981130",
-      "331073143613423616",
-      "473860522710794250",
-      "401627057915691009"         
-    ]
+    "modrinth": "r4GILswZ"
   },
   "classic_faithful_32x": {
-    "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Jappa/Classic%20Faithful%2032x%20Jappa%20-%201.20.1.zip",
-    "author": [
-      "360249987927638016",
-      "865560086952280084",
-      "672989591283695618",
-      "340497757410295808",
-      "207471947662098432",
-      "838924839086981130",
-      "331073143613423616",
-      "473860522710794250",
-      "401627057915691009"         
-    ],
+    "modrinth": "bkFF9W8s",
     "alias": "classic_faithful"
   },
   "classic_faithful_64x": {
-    "download": "https://database.faithfulpack.net/packs/Classic-64x-Java/Jappa/Classic%20Faithful%2064x%20Jappa%20-%201.20.1.zip",
-    "author": [
-      "360249987927638016",
-      "865560086952280084",
-      "672989591283695618",
-      "340497757410295808",
-      "207471947662098432",
-      "838924839086981130",
-      "331073143613423616",
-      "473860522710794250",
-      "401627057915691009"         
-    ]
+    "modrinth": "Wr4noqwa"
   },
-  "classic_faithful_32x_programmer_art": {
-    "download": "https://database.faithfulpack.net/packs/Classic-32x-Java/Programmer%20Art/Classic%20Faithful%2032x%20Programmer%20Art%20-%201.20.1.zip",
-    "author": [
-      "360249987927638016",
-      "865560086952280084",
-      "672989591283695618",
-      "340497757410295808",
-      "207471947662098432",
-      "838924839086981130",
-      "331073143613423616",
-      "473860522710794250",
-      "401627057915691009"         
-    ]
+  "classic_faithful_32x_jappa": {
+    "modrinth": "woZSVbVu",
+    "alias": "classic_faithful_jappa"
+  },
+  "classic_faithful_64x_jappa": {
+    "modrinth": "JiSLiy6N"
   },
   "barebones": {
-    "download": "https://github.com/RobotPantaloons/Bare-Bones-Java/archive/refs/heads/master.zip",
-    "author": [
-      "588425966804533421",
-      "203612537118261248"
+    "github": [
+      "RobotPantaloons",
+      "Bare-Bones-Java"
     ]
   },
-  "faithless_16x": {
-    "download": "https://mediafilez.forgecdn.net/files/6108/673/Faithless1.21.zip",
-    "author": "298438575756935181",
-    "alias": "faithless"
+  "faithless": {
+    "modrinth": "CwaddKq6"
   },
   "barely_default": {
-    "download": "https://mediafilez.forgecdn.net/files/6157/0/MickeyJoesBarelyDefaultV16.3.zip",
-    "author": "118504150978789376"
+    "modrinth": "e67KFc9t"
   },
   "optifine": {
-    "download": "https://github.com/ewanhowell5195/OptiFineTextures/archive/refs/heads/main.zip",
-    "author": [
-      "519179484340027392",
-      "202558206495555585"
+    "github": [
+      "ewanhowell5195",
+      "OptiFineTextures"
     ]
   },
-  "better_bows": {
-    "download": "https://github.com/ewanhowell5195/BetterBows/archive/refs/heads/main.zip",
-    "author": "519179484340027392"
-  },
-  "oledcraft": {
-    "download": "https://github.com/ewanhowell5195/OLEDCraft/archive/refs/heads/main.zip",
-    "author": "519179484340027392"
-  },
-  "umbrella_villagers": {
-    "download": "https://github.com/ewanhowell5195/UmbrellaVillagers/archive/refs/heads/main.zip",
-    "author": "519179484340027392"
-  },
-  "scrolling_textures": {
-    "download": "https://github.com/ewanhowell5195/ScrollingTextures/archive/refs/heads/master.zip",
-    "author": "519179484340027392"
-  },
-  "sheepified_remastered": {
-    "download": "https://github.com/ewanhowell5195/SheepifiedRemastered/archive/refs/heads/master.zip",
-    "author": "519179484340027392",
-    "alias": "sheepified"
-  },
   "mspainted": {
-    "download": "https://github.com/StrideyGH/MS-Painted/archive/refs/heads/main.zip",
-    "author": "174069044154990593"
+    "github": [
+      "StrideyGH",
+      "MS-Painted"
+    ]
   },
   "caelesti": {
-    "download": "https://cdn.modrinth.com/data/4sznRHpx/versions/7njc2Ksw/Caelesti%20Update%2047.zip",
-    "author": "262950583445487617"
+    "modrinth": "4sznRHpx"
   }
 }
